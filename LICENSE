@@ -1,0 +1,54 @@
+Nova – Freeware License Agreement (Personal, Non-Commercial Use)
+SPDX-License-Identifier: LicenseRef-v98881-Freeware
+
+Copyright © 2026 v98881 (BOND-V Technology). All rights reserved.
+
+This program ("Nova") is provided as freeware for private, personal,
+non-commercial use. By downloading, installing or using Nova you agree to
+the terms below.
+
+1. Permitted use
+   You may install and use Nova free of charge on devices you own or
+   control, for your own private household. You may make a backup copy for
+   yourself.
+
+2. No redistribution
+   You may not sell, rent, sub-license or otherwise distribute Nova. If you
+   want to share it, link people to the official download page instead:
+   https://github.com/BOND-V-Technology/NOVA-Home-Offline-Assistent
+
+3. No modification or reverse engineering
+   You may not modify, adapt, translate or create derivative works of Nova,
+   and you may not decompile, disassemble or otherwise attempt to derive the
+   source code, except to the limited extent that applicable law expressly
+   permits despite this restriction. The distributed builds are protected
+   against reverse engineering.
+
+4. No source code
+   Nova is distributed as a compiled program only. No source code is
+   published with these releases.
+
+5. Commercial use
+   Any commercial or business use requires a separate written agreement with
+   the author.
+
+6. Third-party components
+   Nova includes third-party open-source components, each under its own
+   license. See THIRD_PARTY_NOTICES.md. Those licenses apply to those
+   components and nothing in this agreement limits rights granted by them.
+
+7. No warranty
+   NOVA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM OR IN CONNECTION
+   WITH THE USE OF NOVA. YOU USE IT AT YOUR OWN RISK.
+
+9. Termination
+   This license ends automatically if you breach any of its terms. On
+   termination you must stop using Nova and delete your copies.
+
+Mandatory statutory rights of consumers remain unaffected.

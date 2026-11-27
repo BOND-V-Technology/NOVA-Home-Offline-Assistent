@@ -1,0 +1,25 @@
+# This is a release-only repository: no source code, no build output, no data.
+
+# Build / release artifacts (attach these to a GitHub Release, do not commit)
+*.zip
+*.tar.gz
+*.exe
+*.dmg
+*.deb
+*.AppImage
+SHA256SUMS
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Never commit secrets or private data
+.env
+*.key
+*.pem
+data/
+logs/

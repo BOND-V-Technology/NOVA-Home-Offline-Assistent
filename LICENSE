@@ -34,8 +34,10 @@ the terms below.
 
 6. Third-party components
    Nova includes third-party open-source components, each under its own
-   license. See THIRD_PARTY_NOTICES.md. Those licenses apply to those
-   components and nothing in this agreement limits rights granted by them.
+   license. Their notices and full license texts are included inside the
+   program (the `licenses/` folder in the release package). Those licenses
+   apply to those components and nothing in this agreement limits rights
+   granted by them.
 
 7. No warranty
    NOVA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
